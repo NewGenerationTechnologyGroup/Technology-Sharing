@@ -1,2 +1,5 @@
-# Technology-Sharing
-Technology Sharing of New Generation Technology Group
+#### 新生代技术群
+
+![新生代技术群]()
+
+如果二维码已经失效,请联系微信群管理员,微信号:zhengzhi-wuhan。
