@@ -22,7 +22,7 @@
 
 10.[大数据流式计算:关键技术及系统实例](https://github.com/NewGenerationTechnologyGroup/Technology-Sharing/raw/master/file/大数据流式计算-关键技术及系统实例.pdf)
 
-11.[利用 Java dump 进行 JVM 故障诊断](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/0903_suipf_javadump/)
+11.[深入浅出 JIT 编译器](https://www.ibm.com/developerworks/cn/java/j-lo-just-in-time/)
 
 二、演讲与会议
 
