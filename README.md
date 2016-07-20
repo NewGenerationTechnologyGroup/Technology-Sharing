@@ -4,4 +4,4 @@
 
 #### 技术周报
 
-[技术周报]()
+[技术周报](https://github.com/NewGenerationTechnologyGroup/Technology-Sharing/tree/master/weekly)
