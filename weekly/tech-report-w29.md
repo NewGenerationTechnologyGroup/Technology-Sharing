@@ -30,6 +30,3 @@
 
 3.[滴滴的组件化与实践](https://github.com/NewGenerationTechnologyGroup/Technology-Sharing/raw/master/file/滴滴的组件化与实践.pdf)
 
-4.[蘑菇街交易数据库架构演进历程](http://bbs.tech.mogujie.org/forum.php?mod=viewthread&tid=18&extra=page%3D1&ticket=TK-51827-ZGesoEWyG7UseZtArueidQfw4fVNpYFMN0f)
-
-
