@@ -34,3 +34,6 @@
 
 3.[滴滴的组件化与实践](https://github.com/NewGenerationTechnologyGroup/Technology-Sharing/raw/master/file/滴滴的组件化与实践.pdf)
 
+三、图书
+
+1.锻炼批判性思维《学会提问》
