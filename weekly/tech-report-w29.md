@@ -22,6 +22,8 @@
 
 10.[大数据流式计算:关键技术及系统实例](https://github.com/NewGenerationTechnologyGroup/Technology-Sharing/raw/master/file/大数据流式计算-关键技术及系统实例.pdf)
 
+11.[利用 Java dump 进行 JVM 故障诊断](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/0903_suipf_javadump/)
+
 二、演讲与会议
 
 1.[敢付敢赔背后的互联网实时风控技术](http://www.infoq.com/cn/presentations/internet-real-time-wind-control-technology)
