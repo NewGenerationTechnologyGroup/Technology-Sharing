@@ -16,4 +16,6 @@
 
 2.[2016全球架构师峰会(深圳)-演讲Slide下载](http://sz2016.archsummit.com/schedule)
 
+3.[滴滴的组件化与实践](https://github.com/NewGenerationTechnologyGroup/Technology-Sharing/raw/master/file/滴滴的组件化与实践.pdf)
+
 
