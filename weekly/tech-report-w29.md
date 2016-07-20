@@ -24,6 +24,8 @@
 
 11.[深入浅出 JIT 编译器](https://www.ibm.com/developerworks/cn/java/j-lo-just-in-time/)
 
+12.[消息队列设计精要](http://tech.meituan.com/mq-design.html)
+
 二、演讲与会议
 
 1.[敢付敢赔背后的互联网实时风控技术](http://www.infoq.com/cn/presentations/internet-real-time-wind-control-technology)
