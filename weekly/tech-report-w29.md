@@ -22,6 +22,8 @@
 
     * [Java 8系列之重新认识HashMap](http://tech.meituan.com/java-hashmap.html)
 
+        * 很深入的分析了HashMap的原理
+
     * [章文嵩博士和他背后的负载均衡帝国](http://jm.taobao.org/2016/06/02/zhangwensong-and-load-balance/)
 
     * [大数据流式计算:关键技术及系统实例](https://github.com/NewGenerationTechnologyGroup/Technology-Sharing/raw/master/file/大数据流式计算-关键技术及系统实例.pdf)
