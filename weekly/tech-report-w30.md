@@ -8,6 +8,8 @@
 
     * [Jenkins+Docker搭建持续集成测试环境](http://dockone.io/article/1464)
 
+    * [知识库上的问答系统：实体、文本及系统观点](http://techshow.ctrip.com/archives/category/share)
+
 * 演讲与会议
 
     * [Docker容器安全](https://github.com/NewGenerationTechnologyGroup/Technology-Sharing/raw/master/file/Docker Security Overview.pptx)
